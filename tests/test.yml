@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - ans_sysadmin_windows_role
+    - ans_microsoft_windows_role
